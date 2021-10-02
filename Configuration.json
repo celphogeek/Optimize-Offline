@@ -7,7 +7,7 @@
     "FeaturesToEnable, FeaturesToDisable : All | None | Select | List",
     "Services : None | Select | List | Advanced"
   ],
-  "SourcePath": "C:\\Users\\Genci\\Desktop\\W10\\W10.ISO",
+  "SourcePath": "PathTo:\\sources\\install.wim",
   "WindowsApps": "Whitelist",
   "SystemApps": "Whitelist",
   "Capabilities": "Blacklist",
@@ -37,7 +37,7 @@
   "ISO": "Prompt",
   "CompressionType": "Maximum",
   "SelectiveRegistry": {
-    "DisableWindowsUpdate": true,
+    "DisableWindowsUpdate": false,
     "DisableDriverUpdate": true,
     "DormantOneDrive": true
   }

@@ -1,18 +1,17 @@
-{
-	"DisplayName": [
-		"Microsoft.AccountsControl",
-		"Microsoft.CredDialogHost",
-		"Microsoft.UI.Xaml.CBS",
-		"Microsoft.Windows.CloudExperienceHost",
-		"Microsoft.Windows.NarratorQuickStart",
-		"Microsoft.Windows.OOBENetworkCaptivePortal",
-		"Microsoft.Windows.OOBENetworkConnectionFlow",
-		"Microsoft.Windows.ShellExperienceHost",
-		"Microsoft.Windows.StartMenuExperienceHost",
-		"MicrosoftWindows.Client.CBS",
-		"MicrosoftWindows.UndockedDevKit",
-		"NcsiUwpApp",
-		"windows.immersivecontrolpanel",
-		"Windows.PrintDialog"
-	]
+﻿{
+    "DisplayName":  [
+                        "Microsoft.AccountsControl",
+                        "Microsoft.CredDialogHost",
+                        "Microsoft.UI.Xaml.CBS",
+                        "Microsoft.Windows.CloudExperienceHost",
+                        "Microsoft.Windows.NarratorQuickStart",
+                        "Microsoft.Windows.OOBENetworkCaptivePortal",
+                        "Microsoft.Windows.OOBENetworkConnectionFlow",
+                        "Microsoft.Windows.ShellExperienceHost",
+                        "Microsoft.Windows.StartMenuExperienceHost",
+                        "MicrosoftWindows.UndockedDevKit",
+                        "NcsiUwpApp",
+                        "windows.immersivecontrolpanel",
+                        "Windows.PrintDialog"
+                    ]
 }
